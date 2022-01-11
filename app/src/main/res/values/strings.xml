@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_dashboard_second">Dashboard Second</string>
+    <string name="title_dashboard_third">Dashboard Third</string>
+
+    <string name="title_notifications">Notifications</string>
+
+    <string name="button_go_to_dashboard_second">go to second</string>
+</resources>
